@@ -97,6 +97,12 @@ Here's an example result showing the heatmap from a series of frames of video, t
 ![alt text][image7]
 
 
+[![Result [short]](https://img.youtube.com/vi/bjsA6Py-sbo/0.jpg)](https://www.youtube.com/watch?v=bjsA6Py-sbo)
+
+[![Result [full]](https://img.youtube.com/vi/b3wxAFnLdqg/0.jpg)](https://www.youtube.com/watch?v=b3wxAFnLdqg)
+
+
+
 
 ---
 
